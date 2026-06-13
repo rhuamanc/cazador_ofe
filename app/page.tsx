@@ -36,6 +36,7 @@ const CATS = [
   { key: "parlante", label: "Parlantes 🔊" },
   { key: "licuadora", label: "Licuadoras 🫙" },
   { key: "hidrolavadora", label: "Hidrolavadoras 🧼" },
+  { key: "cocina", label: "Cocina 🍳" },
 ];
 
 const SORT_OPTS: { key: SortKey; label: string }[] = [
